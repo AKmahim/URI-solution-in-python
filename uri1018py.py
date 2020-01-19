@@ -12,5 +12,3 @@ for i in range(0,7):
     res = "{} nota(s) de R$ {},00"
     result = res.format(c,l)
     print(result)
-    
-
